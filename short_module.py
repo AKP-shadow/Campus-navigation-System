@@ -7,35 +7,24 @@ from cmath import nan
 from venv import create
 import numpy as np
 import sys
-
+from get_locations import get_route_dict,create_mat
 from collections import defaultdict
 
-def get_markers():
-    markers = dict()
-    with open("markers.csv","r") as file:
-        a = file.readlines()
-        for landmark in a:
-            print
-            marker_unorg = landmark.split(',')
-            markers[marker_unorg[0]] = int(marker_unorg[1])
-    return markers
 
-def create_mat():
+
   # mat = [[0 for i in range(20)] for i in range(20)]
-    with open("map_1.csv","r") as file:
-        mat = np.genfromtxt(file,delimiter=",")
-    return mat
+
 #Class to represent a graph
 class Graph:
     def __init__(self) -> None:
         self.path_op=list()
-        self.graph = create_mat()
+        self.graph = create_mat('./data/all_points.json')
 
     def minDistance(self,dist,queue):
         minimum = float("Inf")
         min_index = -1
         for i in range(len(dist)):
-            if dist[i] < minimum and i in queue:
+            if dist[i] <= minimum and i in queue:
                 minimum = dist[i]
                 min_index = i
         return min_index
@@ -44,7 +33,7 @@ class Graph:
         if parent[j] == -1 :
             return
         self.printPath(parent , parent[j])
-        self.path_op.append(j)
+        self.path_op.append(j+1)
     
     def printSolution(self, dist, parent):
         src = 0
@@ -55,7 +44,7 @@ class Graph:
     
     def dijkstra(self, src,dest):
         self.path_op = []
-        self.path_op.append(src)
+        self.path_op.append(src+1)
         row = len(self.graph)
         col = len(self.graph[0])
         
@@ -109,11 +98,14 @@ class Graph:
 
             
 
+def shortest_path(src,dest):
+    a = Graph()
+    return  a.dijkstra(src-1,dest-1)
+    
+# print(shortest_path(1,22))
 
-g= Graph()
-
+# g= Graph()
+# print(len(create_mat('all_points.json')))
 # Print the solution
-details = g.dijkstra(26,4)
-print(details)
-
-
+# details = g.dijkstra(26,4)
+# print(details)

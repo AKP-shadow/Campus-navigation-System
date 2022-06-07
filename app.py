@@ -34,4 +34,4 @@ def home():
 def check():
     return render_template('__map.html')
     
-app.run(threaded=True, port = 33507)
+app.run(threaded=True)

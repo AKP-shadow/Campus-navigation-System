@@ -25,8 +25,8 @@ def home():
         # print(sources)
         # print(destinations)
 
-#         start(src, dest)
-        return render_template('home.html', sources=sources, destinations=destinations,to_html = start(src,dest))
+        start(src, dest)
+        return render_template('home.html', sources=sources, destinations=destinations,to_html = '__map.html'))
     
     return render_template('home.html', sources=sources, destinations=destinations,to_html='__map.html')
 

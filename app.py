@@ -1,7 +1,7 @@
 from flask import Flask, redirect, render_template, request, url_for
 import json
 from main import start, reset
-
+from data import junk
 app = Flask(__name__)
 
 with open(u'./data/addall_points.json','r') as f:

@@ -1,233 +1,1262 @@
 {
     "1": {
         "point_no": "1",
-        "lat_lng": "12.751617010495364, 80.20367432693531",
-        "label": "SSN Main Entrance, Entrance",
-        "adj": "2,3",
+        "lat_lng": "12.753188685696,80.1974830040588",
+        "label": "NSS_Organic_Farming",
+        "adj": "148",
         "is_marker": "1"
     },
     "2": {
         "point_no": "2",
-        "lat_lng": "12.752208238293772, 80.20361531835628",
-        "label": "Front Parking,parking1",
-        "adj": "1,3",
+        "lat_lng": "12.7535868949358,80.1980778834855",
+        "label": "Faculty_Research_Center",
+        "adj": "149",
         "is_marker": "1"
     },
     "3": {
         "point_no": "3",
-        "lat_lng": "12.752134988912399, 80.2025585280352",
-        "label": "Main Rd1",
-        "adj": "2,4,5,1",
-        "is_marker": "0"
+        "lat_lng": "12.7533422199542,80.196573189499",
+        "label": "Vishwas_Food_Court",
+        "adj": "146,145",
+        "is_marker": "1"
     },
     "4": {
         "point_no": "4",
-        "lat_lng": "12.752412290045065, 80.20264972313595",
-        "label": "School of Advanced Career education, Career education",
-        "adj": "3",
+        "lat_lng": "12.7531936227267,80.1955034520565",
+        "label": "Ladies_Hostel",
+        "adj": "143",
         "is_marker": "1"
     },
     "5": {
         "point_no": "5",
-        "lat_lng": "12.752276218618697, 80.20042431820106",
-        "label": "first right",
-        "adj": "3,6",
+        "lat_lng": "12.7529426713335,80.1951122326639",
+        "label": "canteen 4way junction",
+        "adj": "143,136,8,7,6",
         "is_marker": "0"
     },
     "6": {
         "point_no": "6",
-        "lat_lng": "12.752236906621, 80.19999438536233",
-        "label": "first_left",
-        "adj": "5,7,16",
-        "is_marker": "0"
+        "lat_lng": "12.7531837748968,80.1946832177381",
+        "label": "Main_Canteen",
+        "adj": "7,5",
+        "is_marker": "1"
     },
     "7": {
         "point_no": "7",
-        "lat_lng": "12.751559865737509, 80.19988690213688",
-        "label": "GHR1",
-        "adj": "6,8,9",
-        "is_marker": "0"
+        "lat_lng": "12.7531837748968,80.1946832177381",
+        "label": "Paradise_Food_Court",
+        "adj": "6,5",
+        "is_marker": "1"
     },
     "8": {
         "point_no": "8",
-        "lat_lng": "12.751321471418855, 80.19968454089522",
-        "label": "basketball court",
-        "adj": "7,8",
-        "is_marker": "1"
+        "lat_lng": "12.7526580132779,80.1942988586464",
+        "label": "canteen sports complex junction",
+        "adj": "13,12,11,10,9,5",
+        "is_marker": "0"
     },
     "9": {
         "point_no": "9",
-        "lat_lng": "12.750739995664135, 80.19989991422685",
-        "label": "GHR2",
-        "adj": "7,8,10",
-        "is_marker": "0"
+        "lat_lng": "12.7525311057936,80.1942691231908",
+        "label": "Busbay_Entrance_2",
+        "adj": "39,38,8",
+        "is_marker": "1"
     },
     "10": {
         "point_no": "10",
-        "lat_lng": "12.75072477376422, 80.19927252224987",
-        "label": "GHR3",
-        "adj": "9,11,12",
-        "is_marker": "0"
+        "lat_lng": "12.7527202905442,80.1939691470269",
+        "label": "Sports_Complex_Old_Block",
+        "adj": "14,13,8",
+        "is_marker": "1"
     },
     "11": {
         "point_no": "11",
-        "lat_lng": "12.750112852792107, 80.19926315819035",
-        "label": "Gents Hostel - 5, GH5",
-        "adj": "10",
+        "lat_lng": "12.7531976514434,80.1942375467396",
+        "label": "Sports_Complex_New_Block",
+        "adj": "12,8",
         "is_marker": "1"
     },
     "12": {
         "point_no": "12",
-        "lat_lng": "12.75073086252934, 80.1988979598165",
-        "label": "pg_messlink",
-        "adj": "10,13,14",
-        "is_marker": "0"
+        "lat_lng": "12.7531976514434,80.1942375467396",
+        "label": "Men's_Gym",
+        "adj": "11,8",
+        "is_marker": "1"
     },
     "13": {
         "point_no": "13",
-        "lat_lng": "12.751047477767543, 80.19891044522922",
-        "label": "PG Mess",
-        "adj": "12,14",
-        "is_marker": "1"
+        "lat_lng": "12.7524402623441,80.1938670082656",
+        "label": "outdoor ground entrance",
+        "adj": "33,14,10,8",
+        "is_marker": "0"
     },
     "14": {
         "point_no": "14",
-        "lat_lng": "12.751032255900947, 80.19823623290313",
-        "label": "Open Air theatre Back",
-        "adj": "12,13,23,15",
+        "lat_lng": "12.7525955443078,80.1935648081904",
+        "label": "Volleyball_Court",
+        "adj": "16,15,13,10",
         "is_marker": "1"
     },
     "15": {
         "point_no": "15",
-        "lat_lng": "12.752299048159097, 80.19821701587385",
-        "label": "Research centre Road",
-        "adj": "14,16,17",
+        "lat_lng": "12.7529798693914,80.1935338432321",
+        "label": "Tennis_Court",
+        "adj": "14",
         "is_marker": "1"
     },
     "16": {
         "point_no": "16",
-        "lat_lng": "12.752458627054455, 80.19834039748723",
-        "label": "Vama Sundari Park",
-        "adj": "15,20,6",
+        "lat_lng": "12.7525751022616,80.1932496552835",
+        "label": "Basketball_Court",
+        "adj": "17,14",
         "is_marker": "1"
     },
     "17": {
         "point_no": "17",
-        "lat_lng": "12.752288583975549, 80.19779188570172",
-        "label": "parkleft1",
-        "adj": "15,18,17",
-        "is_marker": "0"
+        "lat_lng": "12.7526036999605,80.1927624759498",
+        "label": "Cricket_Practice_Pitch",
+        "adj": "18,16",
+        "is_marker": "1"
     },
     "18": {
         "point_no": "18",
-        "lat_lng": "12.752288583967838, 80.19728763045981",
-        "label": "parkleft2",
-        "adj": "17,19,20,21",
+        "lat_lng": "12.7525817017313,80.191909912088",
+        "label": "football stadium entrance",
+        "adj": "20,19,17",
         "is_marker": "0"
     },
     "19": {
         "point_no": "19",
-        "lat_lng": "12.752259807437376, 80.19668413341711",
-        "label": "parkleft3",
-        "adj": "18,21,33",
-        "is_marker": "0"
+        "lat_lng": "12.7525971004931,80.1910596036912",
+        "label": "Football_Ground",
+        "adj": "18",
+        "is_marker": "1"
     },
     "20": {
         "point_no": "20",
-        "lat_lng": "12.752539724483919, 80.19772751272455",
-        "label": "parkcentre1",
-        "adj": "15,17,21,20",
+        "lat_lng": "12.7521568433211,80.1916705582403",
+        "label": "football to cricket path 1",
+        "adj": "21,18",
         "is_marker": "0"
     },
     "21": {
         "point_no": "21",
-        "lat_lng": "12.752623437932467, 80.19707573594054",
-        "label": "parkcentre2",
-        "adj": "20,18,19,22",
+        "lat_lng": "12.7517251947644,80.1916866514939",
+        "label": "football to cricket path 2",
+        "adj": "22,20",
         "is_marker": "0"
     },
     "22": {
         "point_no": "22",
-        "lat_lng": "12.752762088269872, 80.19653124752752",
-        "label": "Clock Tower, CT",
-        "adj": "21,33",
-        "is_marker": "1"
+        "lat_lng": "12.7516728736773,80.1911153409908",
+        "label": "football to cricket path 3",
+        "adj": "27,21",
+        "is_marker": "0"
     },
     "23": {
         "point_no": "23",
-        "lat_lng": "12.751050082149861, 80.1970239333744",
-        "label": "cseroad1",
-        "adj": "14,24,27",
-        "is_marker": "0"
+        "lat_lng": "12.752135914921,80.1897822830885",
+        "label": "Cricket_Ground",
+        "adj": "25,24",
+        "is_marker": "1"
     },
     "24": {
         "point_no": "24",
-        "lat_lng": "12.75120353682671, 80.19703605597202",
-        "label": "twin_dept_it_cse",
-        "adj": "23,25,26",
-        "is_marker": "0"
+        "lat_lng": "12.7518664616436,80.1888515565882",
+        "label": "Cricket_Practice_Nets",
+        "adj": "25,23",
+        "is_marker": "1"
     },
     "25": {
         "point_no": "25",
-        "lat_lng": "12.751226411094398, 80.19689403705775",
-        "label": "Department of Information Technology,it dept, it",
-        "adj": "24",
-        "is_marker": "1"
+        "lat_lng": "12.7513641790305,80.1892994854765",
+        "label": "cricket stadium entrance ",
+        "adj": "26,24,23",
+        "is_marker": "0"
     },
     "26": {
         "point_no": "26",
-        "lat_lng": "12.751222598717085, 80.19711423152562",
-        "label": "Department of Computer Science Engineering,cse dept, cse",
-        "adj": "24",
-        "is_marker": "1"
+        "lat_lng": "12.7513294180026,80.1889353933824",
+        "label": "cricket stadium road 1",
+        "adj": "27,25",
+        "is_marker": "0"
     },
     "27": {
         "point_no": "27",
-        "lat_lng": "12.751027891193404, 80.19615329488826",
-        "label": "library front",
-        "adj": "23,28,29",
+        "lat_lng": "12.7512038471789,80.1911133470374",
+        "label": "cricket stadium road 2",
+        "adj": "28,26,22",
         "is_marker": "0"
     },
     "28": {
         "point_no": "28",
-        "lat_lng": "12.751162816393933, 80.19619629147059",
-        "label": "Library ",
-        "adj": "27",
-        "is_marker": "1"
+        "lat_lng": "12.7509840283676,80.1921141004895",
+        "label": "cricket stadium road 3",
+        "adj": "29,27",
+        "is_marker": "0"
     },
     "29": {
         "point_no": "29",
-        "lat_lng": "12.751009658053142, 80.1957831503405",
-        "label": "ecefront",
-        "adj": "29",
+        "lat_lng": "12.7510703583905,80.1927256441266",
+        "label": "humanities block entrance",
+        "adj": "32,30,28",
         "is_marker": "0"
     },
     "30": {
         "point_no": "30",
-        "lat_lng": "12.751613174314508, 80.19577567266604",
-        "label": "Fountain",
-        "adj": "29,31",
+        "lat_lng": "12.7513267322245,80.1926398134407",
+        "label": "Humanities_Block",
+        "adj": "29",
         "is_marker": "1"
     },
     "31": {
         "point_no": "31",
-        "lat_lng": "12.752078117895827, 80.19577193384352",
-        "label": "Fountainfront",
-        "adj": "30,32",
-        "is_marker": "0"
+        "lat_lng": "12.750782591533,80.1929402208665",
+        "label": "Generator_Building",
+        "adj": "52,32",
+        "is_marker": "1"
     },
     "32": {
         "point_no": "32",
-        "lat_lng": "12.75224039211608, 80.19600561094302",
-        "label": "Fountainfrontexitright",
-        "adj": "31,33",
+        "lat_lng": "12.7510860547718,80.1930126405052",
+        "label": "cricket stadium road 4",
+        "adj": "52,35,29",
         "is_marker": "0"
     },
     "33": {
         "point_no": "33",
-        "lat_lng": "12.752422722576574, 80.19551395432566",
-        "label": "Fountainfrontexitleft",
-        "adj": "31,32,19,22",
+        "lat_lng": "12.7516537393057,80.1930287337588",
+        "label": "snu block entrance",
+        "adj": "35,34,13",
+        "is_marker": "0"
+    },
+    "34": {
+        "point_no": "34",
+        "lat_lng": "12.7520461472306,80.192690775425",
+        "label": "SNU_Block",
+        "adj": "33",
+        "is_marker": "1"
+    },
+    "35": {
+        "point_no": "35",
+        "lat_lng": "12.7514810796291,80.1930931067814",
+        "label": "snu-admin path ",
+        "adj": "41,32,33",
+        "is_marker": "0"
+    },
+    "36": {
+        "point_no": "36",
+        "lat_lng": "12.7514821406742,80.1941060613948",
+        "label": "mech entrance 2",
+        "adj": "43,41,40",
+        "is_marker": "0"
+    },
+    "37": {
+        "point_no": "37",
+        "lat_lng": "12.7514895399995,80.1945460744801",
+        "label": "mech entrance 1",
+        "adj": "55,43,40",
+        "is_marker": "0"
+    },
+    "38": {
+        "point_no": "38",
+        "lat_lng": "12.7519279496474,80.194517625359",
+        "label": "mech entrance 4",
+        "adj": "135,40,39,9",
+        "is_marker": "0"
+    },
+    "39": {
+        "point_no": "39",
+        "lat_lng": "12.751922400163,80.1941022681793",
+        "label": "mech entrance 3",
+        "adj": "40,38,9",
+        "is_marker": "0"
+    },
+    "40": {
+        "point_no": "40",
+        "lat_lng": "12.7518465571977,80.194307101857",
+        "label": "Mechanical_Department",
+        "adj": "39,38,37,36",
+        "is_marker": "1"
+    },
+    "41": {
+        "point_no": "41",
+        "lat_lng": "12.7514451440406,80.1940264038403",
+        "label": "workshop back road",
+        "adj": "42,36,35",
+        "is_marker": "0"
+    },
+    "42": {
+        "point_no": "42",
+        "lat_lng": "12.7509808358752,80.1940226106241",
+        "label": "workshop back entrance",
+        "adj": "47,41",
+        "is_marker": "0"
+    },
+    "43": {
+        "point_no": "43",
+        "lat_lng": "12.7514636423561,80.1942729629008",
+        "label": "workshop road 1",
+        "adj": "44,37,36",
+        "is_marker": "0"
+    },
+    "44": {
+        "point_no": "44",
+        "lat_lng": "12.7506256672939,80.1942938255942",
+        "label": "workshop road 2",
+        "adj": "45,43",
+        "is_marker": "0"
+    },
+    "45": {
+        "point_no": "45",
+        "lat_lng": "12.750588670537,80.1941439935391",
+        "label": "Incubation_Center",
+        "adj": "47,44",
+        "is_marker": "1"
+    },
+    "46": {
+        "point_no": "46",
+        "lat_lng": "12.7505609229671,80.1936394957775",
+        "label": "Physics_Chemistry_Laboratory",
+        "adj": "52,50,49,48",
+        "is_marker": "1"
+    },
+    "47": {
+        "point_no": "47",
+        "lat_lng": "12.7506756129029,80.1936413923856",
+        "label": "Workshop",
+        "adj": "48,45",
+        "is_marker": "1"
+    },
+    "48": {
+        "point_no": "48",
+        "lat_lng": "12.7506571145297,80.1935389755468",
+        "label": "Mini_Auditorium",
+        "adj": "47,46",
+        "is_marker": "1"
+    },
+    "49": {
+        "point_no": "49",
+        "lat_lng": "12.7504536323323,80.193487767121",
+        "label": "phy chem lab car parking ",
+        "adj": "52,50,46",
+        "is_marker": "0"
+    },
+    "50": {
+        "point_no": "50",
+        "lat_lng": "12.7501188112743,80.1936072534329",
+        "label": "phy chem lab back entrance",
+        "adj": "51,49,46",
+        "is_marker": "0"
+    },
+    "51": {
+        "point_no": "51",
+        "lat_lng": "12.7502372135036,80.1941859901943",
+        "label": "auto garage entrance",
+        "adj": "53,50",
+        "is_marker": "0"
+    },
+    "52": {
+        "point_no": "52",
+        "lat_lng": "12.75061851466,80.1931427641614",
+        "label": "humanities to miniaudi road",
+        "adj": "49,46,32,31",
+        "is_marker": "0"
+    },
+    "53": {
+        "point_no": "53",
+        "lat_lng": "12.7502709396743,80.195217787311",
+        "label": "ECE back to rishabs road",
+        "adj": "63,54,51",
+        "is_marker": "0"
+    },
+    "54": {
+        "point_no": "54",
+        "lat_lng": "12.7506259532775,80.1952059392028",
+        "label": "rishabs to mini audi road",
+        "adj": "129,53,44",
+        "is_marker": "0"
+    },
+    "55": {
+        "point_no": "55",
+        "lat_lng": "12.75148425889,80.195203239024",
+        "label": "mech to rishabs right turn",
+        "adj": "58,56,37",
+        "is_marker": "0"
+    },
+    "56": {
+        "point_no": "56",
+        "lat_lng": "12.7513746397544,80.1951636095623",
+        "label": "Snow_Cube",
+        "adj": "57,55",
+        "is_marker": "1"
+    },
+    "57": {
+        "point_no": "57",
+        "lat_lng": "12.7512948499816,80.1952065249072",
+        "label": "Rishab's_Food_Stall",
+        "adj": "129,56",
+        "is_marker": "1"
+    },
+    "58": {
+        "point_no": "58",
+        "lat_lng": "12.7514936703604,80.1953983028481",
+        "label": "mech to admin turn",
+        "adj": "59,55",
+        "is_marker": "0"
+    },
+    "59": {
+        "point_no": "59",
+        "lat_lng": "12.7516244731506,80.1954506059247",
+        "label": "Admin_Block",
+        "adj": "130,58",
+        "is_marker": "1"
+    },
+    "60": {
+        "point_no": "60",
+        "lat_lng": "12.7507781065988,80.1961231967501",
+        "label": "ECE_Department",
+        "adj": "125,124,123,61",
+        "is_marker": "1"
+    },
+    "61": {
+        "point_no": "61",
+        "lat_lng": "12.7505570069384,80.1960860144032",
+        "label": "ECE_Annexure_Block",
+        "adj": "62,60",
+        "is_marker": "1"
+    },
+    "62": {
+        "point_no": "62",
+        "lat_lng": "12.7503895786489,80.1959143530236",
+        "label": "ece enexure block back entrance",
+        "adj": "63,61",
+        "is_marker": "0"
+    },
+    "63": {
+        "point_no": "63",
+        "lat_lng": "12.7502326145254,80.1957292806073",
+        "label": "ece car parking entrance",
+        "adj": "64,62,53",
+        "is_marker": "0"
+    },
+    "64": {
+        "point_no": "64",
+        "lat_lng": "12.7501541324279,80.1960457812759",
+        "label": "ece to eee road turn",
+        "adj": "65,63",
+        "is_marker": "0"
+    },
+    "65": {
+        "point_no": "65",
+        "lat_lng": "12.7495431773683,80.1961127479238",
+        "label": "volleyball court eee front",
+        "adj": "68,64",
+        "is_marker": "0"
+    },
+    "66": {
+        "point_no": "66",
+        "lat_lng": "12.7492615964782,80.1963428048456",
+        "label": "EEE_Department",
+        "adj": "68,67",
+        "is_marker": "1"
+    },
+    "67": {
+        "point_no": "67",
+        "lat_lng": "12.7492615964782,80.1963428048456",
+        "label": "Civil_Department",
+        "adj": "68,66",
+        "is_marker": "1"
+    },
+    "68": {
+        "point_no": "68",
+        "lat_lng": "12.7495013802228,80.1962210100067",
+        "label": "eee entrance",
+        "adj": "69,67,66,65",
+        "is_marker": "0"
+    },
+    "69": {
+        "point_no": "69",
+        "lat_lng": "12.7495235572827,80.1968168588033",
+        "label": "eee car parking ",
+        "adj": "71,70,68",
+        "is_marker": "0"
+    },
+    "70": {
+        "point_no": "70",
+        "lat_lng": "12.7493325836017,80.1969509692561",
+        "label": "PR_Foods_And_Snacks",
+        "adj": "71,69",
+        "is_marker": "1"
+    },
+    "71": {
+        "point_no": "71",
+        "lat_lng": "12.7494660035858,80.1970958085451",
+        "label": "bme car parking",
+        "adj": "72,70,69",
+        "is_marker": "0"
+    },
+    "72": {
+        "point_no": "72",
+        "lat_lng": "12.7494869321998,80.1976242037183",
+        "label": "bme entrance",
+        "adj": "76,75,74,73,71",
+        "is_marker": "0"
+    },
+    "73": {
+        "point_no": "73",
+        "lat_lng": "12.7492802620155,80.1976295681364",
+        "label": "BME_Department",
+        "adj": "75,74,72",
+        "is_marker": "1"
+    },
+    "74": {
+        "point_no": "74",
+        "lat_lng": "12.7492802620155,80.1976295681364",
+        "label": "Chemical_Department",
+        "adj": "75,73,72",
+        "is_marker": "1"
+    },
+    "75": {
+        "point_no": "75",
+        "lat_lng": "12.7492802620155,80.1976295681364",
+        "label": "Hospital",
+        "adj": "74,73,72",
+        "is_marker": "1"
+    },
+    "76": {
+        "point_no": "76",
+        "lat_lng": "12.7497658811143,80.1982516022756",
+        "label": "bme hostel junction",
+        "adj": "77,72",
+        "is_marker": "0"
+    },
+    "77": {
+        "point_no": "77",
+        "lat_lng": "12.7495469352117,80.1990588452882",
+        "label": "international hostel turn",
+        "adj": "79,78,76",
+        "is_marker": "0"
+    },
+    "78": {
+        "point_no": "78",
+        "lat_lng": "12.7490548415643,80.1991023563597",
+        "label": "International_Hostel_GH-8",
+        "adj": "77",
+        "is_marker": "1"
+    },
+    "79": {
+        "point_no": "79",
+        "lat_lng": "12.7495819570247,80.1993874152259",
+        "label": "GH_7",
+        "adj": "80,77",
+        "is_marker": "1"
+    },
+    "80": {
+        "point_no": "80",
+        "lat_lng": "12.7495944012503,80.1997925073917",
+        "label": "GH-7 to mess path",
+        "adj": "83,81,79",
+        "is_marker": "0"
+    },
+    "81": {
+        "point_no": "81",
+        "lat_lng": "12.7496396822771,80.1999123673494",
+        "label": "UG_Mess_Back_Entrance",
+        "adj": "82,80",
+        "is_marker": "1"
+    },
+    "82": {
+        "point_no": "82",
+        "lat_lng": "12.749894864589,80.1999664983889",
+        "label": "UG_Mess",
+        "adj": "83,81",
+        "is_marker": "1"
+    },
+    "83": {
+        "point_no": "83",
+        "lat_lng": "12.7499058638208,80.1997792952106",
+        "label": "UG mess turn",
+        "adj": "84,82,80",
+        "is_marker": "0"
+    },
+    "84": {
+        "point_no": "84",
+        "lat_lng": "12.7500862511541,80.1997725288306",
+        "label": "GH-5 to GH-6 turn",
+        "adj": "89,85,83",
+        "is_marker": "0"
+    },
+    "85": {
+        "point_no": "85",
+        "lat_lng": "12.7500945516648,80.199254193754",
+        "label": "GH_5",
+        "adj": "86,84",
+        "is_marker": "1"
+    },
+    "86": {
+        "point_no": "86",
+        "lat_lng": "12.7504497209836,80.1992655734033",
+        "label": "GH_4",
+        "adj": "87,85",
+        "is_marker": "1"
+    },
+    "87": {
+        "point_no": "87",
+        "lat_lng": "12.7507382956883,80.1992504005376",
+        "label": "GH-3 to GH-4 turn",
+        "adj": "93,88,86",
+        "is_marker": "0"
+    },
+    "88": {
+        "point_no": "88",
+        "lat_lng": "12.7507209683968,80.1994357103056",
+        "label": "GH_3",
+        "adj": "91,87",
+        "is_marker": "1"
+    },
+    "89": {
+        "point_no": "89",
+        "lat_lng": "12.7502823110279,80.1997865775359",
+        "label": "GH_6",
+        "adj": "90,84",
+        "is_marker": "1"
+    },
+    "90": {
+        "point_no": "90",
+        "lat_lng": "12.7507349680912,80.1998025260383",
+        "label": "GH-3 to GH-6 turn",
+        "adj": "92,91,89",
+        "is_marker": "0"
+    },
+    "91": {
+        "point_no": "91",
+        "lat_lng": "12.7507567453924,80.199566488088",
+        "label": "Laundry",
+        "adj": "88,90",
+        "is_marker": "1"
+    },
+    "92": {
+        "point_no": "92",
+        "lat_lng": "12.7508811870432,80.1998774840421",
+        "label": "Hostel_Power_Station",
+        "adj": "96,90",
+        "is_marker": "1"
+    },
+    "93": {
+        "point_no": "93",
+        "lat_lng": "12.7507428093257,80.1989111466954",
+        "label": "GH-4 to GH-2 turn",
+        "adj": "99,87,180",
+        "is_marker": "0"
+    },
+    "94": {
+        "point_no": "94",
+        "lat_lng": "12.751058028964,80.1988970936319",
+        "label": "GH-2 to GH-4 turn",
+        "adj": "98,95,93",
+        "is_marker": "0"
+    },
+    "95": {
+        "point_no": "95",
+        "lat_lng": "12.7510506296261,80.1991683086062",
+        "label": "Hostel_Office",
+        "adj": "96,94",
+        "is_marker": "1"
+    },
+    "96": {
+        "point_no": "96",
+        "lat_lng": "12.7510469299595,80.1998548807729",
+        "label": "Hoatel office to mainroad pathway",
+        "adj": "106,105,95,92",
+        "is_marker": "0"
+    },
+    "97": {
+        "point_no": "97",
+        "lat_lng": "12.7510543293024,80.198561906364",
+        "label": "PG_Mess",
+        "adj": "98",
+        "is_marker": "1"
+    },
+    "98": {
+        "point_no": "98",
+        "lat_lng": "12.7511819197777,80.1985438626841",
+        "label": "GH_2_Back_Entrance",
+        "adj": "103,100,97,94",
+        "is_marker": "1"
+    },
+    "99": {
+        "point_no": "99",
+        "lat_lng": "12.7507265534765,80.1982416310468",
+        "label": "GH-4 link road to main turn",
+        "adj": "100,93,76,180",
+        "is_marker": "0"
+    },
+    "100": {
+        "point_no": "100",
+        "lat_lng": "12.7510521294661,80.1982483974267",
+        "label": "hostels to department path junction",
+        "adj": "108,101,99,98",
+        "is_marker": "0"
+    },
+    "101": {
+        "point_no": "101",
+        "lat_lng": "12.7513689057028,80.1982032882271",
+        "label": "OAT building entrance",
+        "adj": "109,102,100",
+        "is_marker": "0"
+    },
+    "102": {
+        "point_no": "102",
+        "lat_lng": "12.7517714749317,80.1982032882271",
+        "label": "OAT main entrance",
+        "adj": "178,109,107,103,101",
+        "is_marker": "0"
+    },
+    "103": {
+        "point_no": "103",
+        "lat_lng": "12.7515580913218,80.1985190526244",
+        "label": "GH_2",
+        "adj": "155,104,102,98",
+        "is_marker": "1"
+    },
+    "104": {
+        "point_no": "104",
+        "lat_lng": "12.7515492919959,80.1992633544068",
+        "label": "GH_1",
+        "adj": "106,105,103",
+        "is_marker": "1"
+    },
+    "105": {
+        "point_no": "105",
+        "lat_lng": "12.7515646908197,80.1998768395214",
+        "label": "hostels to OAT turn",
+        "adj": "160,106,104",
+        "is_marker": "0"
+    },
+    "106": {
+        "point_no": "106",
+        "lat_lng": "12.7513293086969,80.1996738481232",
+        "label": "Hostel_Basketball_Court",
+        "adj": "105,104,96",
+        "is_marker": "1"
+    },
+    "107": {
+        "point_no": "107",
+        "lat_lng": "12.7518462691487,80.1976010804198",
+        "label": "CSE-IT car parking",
+        "adj": "112,102",
+        "is_marker": "0"
+    },
+    "108": {
+        "point_no": "108",
+        "lat_lng": "12.7510543293029,80.197901056603",
+        "label": "OAT pathway entrance",
+        "adj": "113,109,100",
+        "is_marker": "0"
+    },
+    "109": {
+        "point_no": "109",
+        "lat_lng": "12.7514986958524,80.1978446701035",
+        "label": "Open_Air_Theater",
+        "adj": "108,102,101",
+        "is_marker": "1"
+    },
+    "110": {
+        "point_no": "110",
+        "lat_lng": "12.7518066722175,80.1969718070995",
+        "label": "Data_Center",
+        "adj": "179,116,112,111",
+        "is_marker": "1"
+    },
+    "111": {
+        "point_no": "111",
+        "lat_lng": "12.7518066722175,80.1969718070995",
+        "label": "CSE_Annexture_Block",
+        "adj": "179,116,112,110",
+        "is_marker": "1"
+    },
+    "112": {
+        "point_no": "112",
+        "lat_lng": "12.7517978728982,80.1971522438979",
+        "label": "CSE back entrance",
+        "adj": "115,111,110,107",
+        "is_marker": "0"
+    },
+    "113": {
+        "point_no": "113",
+        "lat_lng": "12.7510389304542,80.197023682679",
+        "label": "CSE IT pathway turn",
+        "adj": "179,123,108",
+        "is_marker": "0"
+    },
+    "114": {
+        "point_no": "114",
+        "lat_lng": "12.7512193169803,80.1970958573984",
+        "label": "Cse front entrance",
+        "adj": "179,115",
+        "is_marker": "0"
+    },
+    "115": {
+        "point_no": "115",
+        "lat_lng": "12.75153829284,80.1971905867176",
+        "label": "CSE_Department",
+        "adj": "114,112",
+        "is_marker": "1"
+    },
+    "116": {
+        "point_no": "116",
+        "lat_lng": "12.7517956730683,80.1968635450204",
+        "label": "IT block back entrance",
+        "adj": "119,118,111,110",
+        "is_marker": "0"
+    },
+    "117": {
+        "point_no": "117",
+        "lat_lng": "12.7512171171454,80.1969018878401",
+        "label": "IT block front entrance",
+        "adj": "179,118",
+        "is_marker": "0"
+    },
+    "118": {
+        "point_no": "118",
+        "lat_lng": "12.7515272936791,80.196795881221",
+        "label": "IT_Department",
+        "adj": "117,116",
+        "is_marker": "1"
+    },
+    "119": {
+        "point_no": "119",
+        "lat_lng": "12.7518850365556,80.1964954753131",
+        "label": "IT to flag turn",
+        "adj": "120,116",
+        "is_marker": "0"
+    },
+    "120": {
+        "point_no": "120",
+        "lat_lng": "12.7518609704154,80.1961724085363",
+        "label": "IT to flag bench",
+        "adj": "121,119",
+        "is_marker": "0"
+    },
+    "121": {
+        "point_no": "121",
+        "lat_lng": "12.7519278575186,80.1960687432183",
+        "label": "Admin_Area_Car_Parking",
+        "adj": "132,122,120",
+        "is_marker": "1"
+    },
+    "122": {
+        "point_no": "122",
+        "lat_lng": "12.7519729674155,80.1959794315596",
+        "label": "National_Flag",
+        "adj": "134, 132, 121",
+        "is_marker": "1"
+    },
+    "123": {
+        "point_no": "123",
+        "lat_lng": "12.7510140707869,80.1965152909591",
+        "label": "ECE entrance near IT",
+        "adj": "124,113,60",
+        "is_marker": "0"
+    },
+    "124": {
+        "point_no": "124",
+        "lat_lng": "12.7509977974037,80.1961426624112",
+        "label": "ECE entrance library",
+        "adj": "126,125,123,60",
+        "is_marker": "0"
+    },
+    "125": {
+        "point_no": "125",
+        "lat_lng": "12.7509991535192,80.1957769859192",
+        "label": "ECE entrance fountain",
+        "adj": "130,129,124,60",
+        "is_marker": "0"
+    },
+    "126": {
+        "point_no": "126",
+        "lat_lng": "12.7510466175563,80.1961551760554",
+        "label": "library entrance",
+        "adj": "128,127,124",
+        "is_marker": "0"
+    },
+    "127": {
+        "point_no": "127",
+        "lat_lng": "12.7511713801257,80.1961426624112",
+        "label": "Xerox_Shop",
+        "adj": "128,126",
+        "is_marker": "1"
+    },
+    "128": {
+        "point_no": "128",
+        "lat_lng": "12.7511768045839,80.1961982786076",
+        "label": "Library",
+        "adj": "127,126",
+        "is_marker": "1"
+    },
+    "129": {
+        "point_no": "129",
+        "lat_lng": "12.7510113585603,80.195219433496",
+        "label": "ECE to Rishabs turn",
+        "adj": "125,57,54",
+        "is_marker": "0"
+    },
+    "130": {
+        "point_no": "130",
+        "lat_lng": "12.7516190551434,80.1957694013537",
+        "label": "Fountain",
+        "adj": "132,131,125,59",
+        "is_marker": "1"
+    },
+    "131": {
+        "point_no": "131",
+        "lat_lng": "12.7516358053337,80.1961414995338",
+        "label": "Career_Development_Cell",
+        "adj": "130",
+        "is_marker": "1"
+    },
+    "132": {
+        "point_no": "132",
+        "lat_lng": "12.7518395992263,80.1957779882348",
+        "label": "fountain front entrance",
+        "adj": "134,133,122",
+        "is_marker": "0"
+    },
+    "133": {
+        "point_no": "133",
+        "lat_lng": "12.7523274388952,80.1955132134805",
+        "label": "fountain front left",
+        "adj": "137,135,132",
+        "is_marker": "0"
+    },
+    "134": {
+        "point_no": "134",
+        "lat_lng": "12.7522364736026,80.1960828012378",
+        "label": "fountain front right",
+        "adj": "138,137,132,122",
+        "is_marker": "0"
+    },
+    "135": {
+        "point_no": "135",
+        "lat_lng": "12.7523989116029,80.1954082894532",
+        "label": "bus bay entrance 1",
+        "adj": "133,136,38",
+        "is_marker": "0"
+    },
+    "136": {
+        "point_no": "136",
+        "lat_lng": "12.7526733288951,80.1953061563855",
+        "label": "CT left 1",
+        "adj": "151,135,5",
+        "is_marker": "0"
+    },
+    "137": {
+        "point_no": "137",
+        "lat_lng": "12.7524164935754,80.1959301364106",
+        "label": "CT left 2",
+        "adj": "151,138,134,133",
+        "is_marker": "0"
+    },
+    "138": {
+        "point_no": "138",
+        "lat_lng": "12.7523634514661,80.1960904248574",
+        "label": "CT left 3",
+        "adj": "150,139,137,134",
+        "is_marker": "0"
+    },
+    "139": {
+        "point_no": "139",
+        "lat_lng": "12.7523076176512,80.1965541164974",
+        "label": "CT left 4",
+        "adj": "150,140,138",
+        "is_marker": "0"
+    },
+    "140": {
+        "point_no": "140",
+        "lat_lng": "12.7523271594866,80.1967029557695",
+        "label": "CT left 5",
+        "adj": "152,141,139",
+        "is_marker": "0"
+    },
+    "141": {
+        "point_no": "141",
+        "lat_lng": "12.7522880758143,80.1972782768817",
+        "label": "CT left 6",
+        "adj": "153,152,142,140",
+        "is_marker": "0"
+    },
+    "142": {
+        "point_no": "142",
+        "lat_lng": "12.752310409342,80.1977620045159",
+        "label": "CT left 7",
+        "adj": "178,153,141",
+        "is_marker": "0"
+    },
+    "143": {
+        "point_no": "143",
+        "lat_lng": "12.753094873261,80.1955208284319",
+        "label": "CT right 1",
+        "adj": "151,144,5,4",
+        "is_marker": "0"
+    },
+    "144": {
+        "point_no": "144",
+        "lat_lng": "12.7531925821189,80.1960389035903",
+        "label": "CT right 2",
+        "adj": "151,145,143",
+        "is_marker": "0"
+    },
+    "145": {
+        "point_no": "145",
+        "lat_lng": "12.7531897904377,80.1962106412119",
+        "label": "CT right 3",
+        "adj": "150,146,144,3",
+        "is_marker": "0"
+    },
+    "146": {
+        "point_no": "146",
+        "lat_lng": "12.7532316656522,80.1967716508518",
+        "label": "CT right 4",
+        "adj": "150,147,145,3",
+        "is_marker": "0"
+    },
+    "147": {
+        "point_no": "147",
+        "lat_lng": "12.7532065405247,80.1969061786554",
+        "label": "CT right 5",
+        "adj": "152,148,146",
+        "is_marker": "0"
+    },
+    "148": {
+        "point_no": "148",
+        "lat_lng": "12.7530027477272,80.197541607899",
+        "label": "CT right 6",
+        "adj": "153,152,149,147,1",
+        "is_marker": "0"
+    },
+    "149": {
+        "point_no": "149",
+        "lat_lng": "12.7527822046577,80.1980310601206",
+        "label": "CT right 7",
+        "adj": "154,153,148,2",
+        "is_marker": "0"
+    },
+    "150": {
+        "point_no": "150",
+        "lat_lng": "12.7528045381433,80.196379516559",
+        "label": "Clock_Tower",
+        "adj": "152,146,145,139,138",
+        "is_marker": "1"
+    },
+    "151": {
+        "point_no": "151",
+        "lat_lng": "12.7528771219531,80.195623871024",
+        "label": "CT center 1",
+        "adj": "144,143,137,136",
+        "is_marker": "0"
+    },
+    "152": {
+        "point_no": "152",
+        "lat_lng": "12.7526705372035,80.1970578802582",
+        "label": "CT center 2",
+        "adj": "153,151,150,147,140",
+        "is_marker": "0"
+    },
+    "153": {
+        "point_no": "153",
+        "lat_lng": "12.7525588697039,80.197684722577",
+        "label": "CT center 3",
+        "adj": "154,152,149,148,142,141",
+        "is_marker": "0"
+    },
+    "154": {
+        "point_no": "154",
+        "lat_lng": "12.7524611606001,80.1983487747653",
+        "label": "Vama_Sundari_Park",
+        "adj": "178,156,153,149,142",
+        "is_marker": "1"
+    },
+    "155": {
+        "point_no": "155",
+        "lat_lng": "12.7519749041791,80.1986332075371",
+        "label": "PG_Ground",
+        "adj": "103",
+        "is_marker": "1"
+    },
+    "156": {
+        "point_no": "156",
+        "lat_lng": "12.7523852829547,80.1988221189334",
+        "label": "Turn 1",
+        "adj": "159,158,157,155,154",
+        "is_marker": "0"
+    },
+    "157": {
+        "point_no": "157",
+        "lat_lng": "12.7523518434029,80.1993021125418",
+        "label": "Turn 2",
+        "adj": "160,159,158,156",
+        "is_marker": "0"
+    },
+    "158": {
+        "point_no": "158",
+        "lat_lng": "12.7528634680618,80.1989215461809",
+        "label": "TMB_Bank",
+        "adj": "159,157,156",
+        "is_marker": "1"
+    },
+    "159": {
+        "point_no": "159",
+        "lat_lng": "12.7528534362156,80.1990964009954",
+        "label": "SSN_School_Of_Management",
+        "adj": "158,157,156",
+        "is_marker": "1"
+    },
+    "160": {
+        "point_no": "160",
+        "lat_lng": "12.752251524722,80.1999775322226",
+        "label": "Turn 3",
+        "adj": "157,161,105",
+        "is_marker": "0"
+    },
+    "161": {
+        "point_no": "161",
+        "lat_lng": "12.75235853132,80.2001215302623",
+        "label": "Main audi pathway entrance",
+        "adj": "163,162,160",
+        "is_marker": "0"
+    },
+    "162": {
+        "point_no": "162",
+        "lat_lng": "12.7529370349275,80.2001558155201",
+        "label": "Justice_Pratab_Singh_Auditorium",
+        "adj": "168,165,161",
+        "is_marker": "1"
+    },
+    "163": {
+        "point_no": "163",
+        "lat_lng": "12.752291652205,80.2004369546336",
+        "label": "Turn 4",
+        "adj": "169,164,161",
+        "is_marker": "0"
+    },
+    "164": {
+        "point_no": "164",
+        "lat_lng": "12.7528166527828,80.2004129549532",
+        "label": "Main audi entrance",
+        "adj": "165,163,162",
+        "is_marker": "0"
+    },
+    "165": {
+        "point_no": "165",
+        "lat_lng": "12.7531003175857,80.2004406040073",
+        "label": "Guest house turn",
+        "adj": "167,166,164",
+        "is_marker": "0"
+    },
+    "166": {
+        "point_no": "166",
+        "lat_lng": "12.7532774451629,80.2008229362737",
+        "label": "Guest_House",
+        "adj": "165",
+        "is_marker": "1"
+    },
+    "167": {
+        "point_no": "167",
+        "lat_lng": "12.7533963070202,80.2004429935839",
+        "label": "Main audi back turn",
+        "adj": "168,165",
+        "is_marker": "0"
+    },
+    "168": {
+        "point_no": "168",
+        "lat_lng": "12.7532634614113,80.2000749987775",
+        "label": "Main audi back entrance",
+        "adj": "167,162",
+        "is_marker": "0"
+    },
+    "169": {
+        "point_no": "169",
+        "lat_lng": "12.7521534447852,80.20257407857",
+        "label": "Turn 5",
+        "adj": "171,170,163",
+        "is_marker": "0"
+    },
+    "170": {
+        "point_no": "170",
+        "lat_lng": "12.7524110718932,80.2025962815757",
+        "label": "SSN_School_Of_Advanced_Career_Education",
+        "adj": "169",
+        "is_marker": "1"
+    },
+    "171": {
+        "point_no": "171",
+        "lat_lng": "12.7520666443335,80.2028945633181",
+        "label": "temple turn",
+        "adj": "174,172,169",
+        "is_marker": "0"
+    },
+    "172": {
+        "point_no": "172",
+        "lat_lng": "12.7523475367476,80.2028671351118",
+        "label": "Temple",
+        "adj": "171",
+        "is_marker": "1"
+    },
+    "173": {
+        "point_no": "173",
+        "lat_lng": "12.752149624612,80.2032064288432",
+        "label": "Bus_Parking",
+        "adj": "174",
+        "is_marker": "1"
+    },
+    "174": {
+        "point_no": "174",
+        "lat_lng": "12.7519207057139,80.203143458382",
+        "label": "Turn 6",
+        "adj": "176,175,173,171",
+        "is_marker": "0"
+    },
+    "175": {
+        "point_no": "175",
+        "lat_lng": "12.7518000494989,80.2034332773118",
+        "label": "Main_Gate_1",
+        "adj": "177,175,174",
+        "is_marker": "1"
+    },
+    "176": {
+        "point_no": "176",
+        "lat_lng": "12.7516090111487,80.2033441230056",
+        "label": "Main_Gate_2",
+        "adj": "177,175,174",
+        "is_marker": "1"
+    },
+    "177": {
+        "point_no": "177",
+        "lat_lng": "12.7518279182016,80.2035999250545",
+        "label": "Main Gate_Car_Parking",
+        "adj": "176,175",
+        "is_marker": "1"
+    },
+    "178": {
+        "point_no": "178",
+        "lat_lng": "12.7522872491562,80.1982210687827",
+        "label": "turn 0",
+        "adj": "154,142,102",
+        "is_marker": "0"
+    },
+    "179": {
+        "point_no": "179",
+        "lat_lng": "12.7512289882524,80.1970206652163",
+        "label": "CSE IT entrance junction",
+        "adj": "117,114,113,111,110",
+        "is_marker": "0"
+    },
+    "180": {
+        "point_no": "180",
+        "lat_lng": "12.750631699761,80.1985472569958",
+        "label": "Gh-4 link road to main turn midway",
+        "adj": "93,99",
         "is_marker": "0"
     }
 }

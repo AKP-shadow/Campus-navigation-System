@@ -25,10 +25,10 @@ def home():
         # print(sources)
         # print(destinations)
 
-        start(src, dest)
-        return render_template('home.html', sources=sources, destinations=destinations)
+#         start(src, dest)
+        return render_template('home.html', sources=sources, destinations=destinations,to_html = start(src,dest))
     
-    return render_template('home.html', sources=sources, destinations=destinations)
+    return render_template('home.html', sources=sources, destinations=destinations,to_html='__map.html')
 
 @app.route('/check')
 def check():

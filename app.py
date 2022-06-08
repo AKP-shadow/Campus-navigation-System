@@ -35,4 +35,4 @@ def check():
     return render_template('__map.html')
     
 
-app.run(debug=True)
+# app.run(debug=True)

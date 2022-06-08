@@ -55,15 +55,15 @@ def show_all_routes(map,mode='j'):
 def draw_route(src,dest,map):
     short_route = shortest_path(src,dest)
     for id in range(len(short_route['path'])-1):
-        folium.PolyLine(locations= [(get_coordinates(str(short_route['path'][id]))), (get_coordinates(str(short_route['path'][id+1])))]).add_to(map)
+        folium.PolyLine(locations= [(get_coordinates(str(short_route['path'][id]))), (get_coordinates(str(short_route['path'][id+1])))],popup=str(short_route['dist'])+" metres").add_to(map)
 
 
 def mark_source_dest(src,dest,map):
     routes = get_route_dict(path)
     src_latlng = get_coordinates(str(src))
     dest_latlng =  get_coordinates(str(dest))
-    folium.Marker(src_latlng,popup= routes[str(src)]['lat_lng'].split(',')[0],icon=folium.Icon(color='blue')).add_to(map)
-    folium.Marker(dest_latlng,popup= routes[str(dest)]['lat_lng'].split(',')[0],icon=folium.Icon(color='red')).add_to(map)
+    folium.Marker(src_latlng,popup= routes[str(src)]['label'].split(',')[0],icon=folium.Icon(color='blue')).add_to(map)
+    folium.Marker(dest_latlng,popup= routes[str(dest)]['label'].split(',')[0],icon=folium.Icon(color='red')).add_to(map)
 # def choose_points(src,dest):
 #     if src is 
 def start(src,dest):

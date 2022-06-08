@@ -25,14 +25,15 @@ def home():
         # print(sources)
         # print(destinations)
         # start(src, dest)
-        return render_template('home.html', sources=sources, destinations=destinations,to_html = start(src,dest) ) # Tried to read pass the string as argument to the include tag in home.html
+        # Passed the string as it is
+        return render_template('home.html', sources=sources, destinations=destinations,to_html = (start(src,dest)) ) # Tried to read pass the string as argument to the include tag in home.html
 #         return render_template('home.html', sources=sources, destinations=destinations,to_html = '__map.html' )
-    
-    return render_template('home.html', sources=sources, destinations=destinations,to_html = '__map.html')
+    # made another html file called 'def.html' which uses the include command to render the __map.html
+    return render_template('def.html', sources=sources, destinations=destinations,to_html = '__map.html')
 
 @app.route('/check')
 def check():
     return render_template('__map.html')
     
 
-# app.run(debug=True)
+app.run(debug=True)

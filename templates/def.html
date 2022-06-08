@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Campus Navigation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:300,400'>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename = 'css/style.css')}}">
+
+</head>
+
+<body style="background-color:rgb(134, 224, 134) ;">
+    <div class="container">
+        <!-- <div class="back_bg"> -->
+        <div id="rcorners1">
+
+            <nav>
+                <h1 style="font-family: 'Lato', sans-serif;">Movenywere</h1>
+                <ul>
+                    <li class="active"><a href="">Navigation</a></li>
+                    <li><a href="">Find a friend</a></li>
+                    <li><a href="">Free Mode</a></li>
+                </ul>
+
+                <!-- partial:index.partial.html -->
+
+            </nav>
+
+            
+        </div>
+
+        <!-- partial -->
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'>
+
+        </script>
+        <script src="{{url_for('static',filename = 'js/script.js')}}"></script>
+
+        <div class="form_box">
+        <form method="post" action="/">
+            <!-- <div class="source_gap"> -->
+                <h4>Select Source point</h4>
+            <!-- </div> -->
+            
+            <select name="source">
+                {% for src in sources %}
+                <option value="{{src}}">{{src}}</option>
+                {% endfor %}
+            </select>
+            <h4>Select Destination point</h4>
+            <select name="destination">
+                {% for dest in destinations %}
+                <option value="{{dest}}">{{dest}}</option>
+                {% endfor %}
+            </select>
+            <br>
+            <div class="submit_gap">
+
+            <input type="submit" >
+
+            </div>
+        </form>
+        </div>
+
+ 
+
+    </div>
+
+</body>
+<!-- This is the normal one u have sent to me -->
+{% include to_html %}
+
+
+</html>

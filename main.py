@@ -60,7 +60,7 @@ def draw_route(src,dest,map):
     for id in range(len(short_route['path'])-1):
         # i+=1
         # if i==(len(short_route['path'])-1)//2:
-            folium.PolyLine(locations= [(get_coordinates(str(short_route['path'][id]))), (get_coordinates(str(short_route['path'][id+1])))],popup=str(round(short_route['dist']),2)+" metres").add_to(map)
+            folium.PolyLine(locations= [(get_coordinates(str(short_route['path'][id]))), (get_coordinates(str(short_route['path'][id+1])))],popup=str(round(short_route['dist'],2))+" metres").add_to(map)
         # else:
         #     folium.PolyLine(locations= [(get_coordinates(str(short_route['path'][id]))), (get_coordinates(str(short_route['path'][id+1])))]).add_to(map)
 
@@ -106,7 +106,7 @@ def start(src,dest):
     mark_source_dest(src_pt,dest_pt,m)
     draw_route(src_pt,dest_pt,m)
     html_string = m._repr_html_()
-    return "```" + html_string[90:] + "```"             #HTML STRING HEEEREEE!!!!!!!!!! (tried to crop the unwanted studd from the string)
+    return f"""{html_string[96:]}"""
     # print('sdas')
 #     m.save("./templates/__map.html")
 

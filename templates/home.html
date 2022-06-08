@@ -67,7 +67,8 @@
     </div>
 
 </body>
-{% include to_html %}
+<!-- | safe tell jinja to try to render it instead of displaying it -->
+{{ to_html | safe }}
 
 
 </html>

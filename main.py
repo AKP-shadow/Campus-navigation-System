@@ -99,7 +99,7 @@ def start(src,dest):
     mark_source_dest(src_pt,dest_pt,m)
     draw_route(src_pt,dest_pt,m)
     
-    m.get_root().render()
+    return m.get_root().render()
 #     print('sdas')
 #     m.save("./templates/__map.html")
 

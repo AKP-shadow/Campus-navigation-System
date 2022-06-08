@@ -98,9 +98,10 @@ def start(src,dest):
     # show_all_routes(m)
     mark_source_dest(src_pt,dest_pt,m)
     draw_route(src_pt,dest_pt,m)
-
-    print('sdas')
-    m.save("./templates/__map.html")
+    
+    m.get_root().render()
+#     print('sdas')
+#     m.save("./templates/__map.html")
 
 def reset():
     m = folium.Map(location = [12.752812133105126, 80.19658495347934],zoom_start = 20,zoom_control=False,)

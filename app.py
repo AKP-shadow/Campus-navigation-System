@@ -34,5 +34,4 @@ def home():
 def check():
     return render_template('__map.html')
     
-if __name__ == __main__:
-    app.run(threaded=True)
+
